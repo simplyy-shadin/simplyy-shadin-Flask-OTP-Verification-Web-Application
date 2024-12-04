@@ -42,8 +42,9 @@ Once verified, users can log in with their email and password.
    ```  
 
 2. **Install Dependencies**  
-   ```bash  
-   pip install Flask==3.0.3 Flask-SQLAlchemy==3.1.1 Flask-Login==0.6.3 Flask-Mail==0.9.1 Werkzeug==3.0.4  
+   ```bash
+   pip install Flask==3.0.3 Flask-SQLAlchemy==3.1.1 Flask-Login==0.6.3 Flask-Mail==0.9.1 Werkzeug==3.0.4 bcrypt==4.0.1
+
    ```  
 
 3. **Database Setup**  
