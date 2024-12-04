@@ -85,8 +85,8 @@ er dashboard.
    - Click the logout button to end your session.  
 
 ## Screenshots  
-[Screenshot_20241204_100858](https://github.com/user-attachments/assets/58a07d9b-2108-4251-8766-7d5b528b0e50)
-[Screenshot_20241204_101027](https://github.com/user-attachments/assets/061a9d7d-1819-4240-accd-41daffe8f209)
+![Screenshot_20241204_100858](https://github.com/user-attachments/assets/58a07d9b-2108-4251-8766-7d5b528b0e50)
+![Screenshot_20241204_101027](https://github.com/user-attachments/assets/061a9d7d-1819-4240-accd-41daffe8f209)
 ![Screenshot_20241204_101109](https://github.com/user-attachments/assets/da087356-416c-4b49-b486-4f40bc9479c7)
 ![Screenshot_20241204_102958](https://github.com/user-attachments/assets/a3d9b446-7442-4bf3-b373-d2b63ec69cf7)
 
